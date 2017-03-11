@@ -1,5 +1,5 @@
 rm(list=ls(all=TRUE))
-#lala
+#Making changes to the models code
 
 library(haven)
 library(data.table)
